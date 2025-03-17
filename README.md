@@ -13,7 +13,7 @@ Technical Discussion QQ Group: 790699378 .   Answer: 人工智能
 
 ---
 
-## K230
+## K230 LMAO
 
 - [Usage](./docs/USAGE_v2_EN.md)
 - [FAQ](./docs/FAQ_EN.md)
